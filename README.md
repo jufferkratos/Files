@@ -55,6 +55,7 @@ This financial report can be used for:
 - Decision-making regarding investment opportunities.
 - Understanding financial trends and company performance.
 - Identifying key areas for further investigation and strategic planning.
+  ###### This Data was completed with the help of New York Jobs CEO Council Financial Analyst Job Simulation by FORAGE
 
 
 
